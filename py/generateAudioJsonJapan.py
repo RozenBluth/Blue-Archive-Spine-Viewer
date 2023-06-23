@@ -8,7 +8,7 @@ from getModelsJapan import downloadFile, getBaseResourceURL
 data = {}
 
 # 1 for offline, 0 for online but cors issue
-_type = 1
+_type = 0
 
 option = {
     "skipExisting": True
